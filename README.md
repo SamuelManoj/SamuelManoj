@@ -18,9 +18,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 <!-- Automation Testing -->
 <h4>🤖 Automation Testing</h4>
 <p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a>
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Appium.png" alt="Appium" width="40" height="40"/>
   </a>
