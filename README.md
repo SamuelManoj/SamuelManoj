@@ -15,58 +15,83 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- API Testing -->
-<h3>🔗 API Testing</h3>
-<p align="left">
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
-
 <!-- Automation Testing -->
-<h3>🤖 Automation Testing</h3>
+<h4>🤖 Automation Testing</h4>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Appium.png" alt="Appium" width="40" height="40"/>
   </a>
 </p>
 
+<!-- API Testing -->
+<h4>🔗 API Testing</h4>
+<p align="left">
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+
+  <!-- Rest Assured (text badge since no official icon) -->
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Rest%20Assured-25A162?style=for-the-badge&logo=java&logoColor=white" alt="Rest Assured"/>
+  </a>
+</p>
+
+
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<p align="left">
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- DynamoDB -->
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="DynamoDB (AWS)" width="40" height="40"/>
+  </a>
+
+  <!-- Generic RDBMS -->
+  <a href="https://en.wikipedia.org/wiki/Relational_database" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=59986&format=png" alt="RDBMS" width="40" height="40"/>
+  </a>
+</p>
+
+
 <!-- Performance Testing -->
-<h3>⚡ Performance Testing</h3>
+<h4>⚡ Performance Testing</h4>
 <p align="left">
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
   </a>
-  <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
-    <img src="https://blazemeter.com/wp-content/uploads/2023/07/blazemeter-logo.svg" alt="BlazeMeter" width="40" height="40"/>
+</p>
+
+<!-- Cloud Platforms -->
+<h4>☁️ Cloud Platforms</h4>
+<p align="left">
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+  </a>
+
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
 </p>
 
+
 <!-- CI/CD & DevOps -->
-<h3>⚙️ CI/CD & DevOps</h3>
+<h4>⚙️ CI/CD & DevOps</h4>
 <p align="left">
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
