@@ -22,20 +22,20 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 
 <table width="800px">
   <tr>
-    <td width="400px"><img src="https://github-readme-stats.vercel.app/api?username=asingh403&show_icons=true&theme=greywhite" alt="asingh403's GitHub stats"></td>
-    <td width="300px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asingh403&layout=compact&theme=greywhite" alt="asingh403's Top Languages"></td>
+    <td width="400px"><img src="https://github-readme-stats.vercel.app/api?username=SamuelManoj&show_icons=true&theme=greywhite" alt="SamuelManoj's GitHub stats"></td>
+    <td width="300px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelManoj&layout=compact&theme=greywhite" alt="SamuelManoj's Top Languages"></td>
   </tr>
 </table>
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asingh403&" alt="asingh403" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelManoj&" alt="SamuelManoj" /></p>
 
 <table style="border-collapse: collapse; width: 90%; border: none;">
       <h3>Developer's Dashboard:</h3>
 <!--   <tr> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asingh403&theme=github" style="width:150%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelManoj&theme=github" style="width:150%">
 <!--     </td> -->
 <!--   </tr> -->
 </table>
