@@ -9,7 +9,7 @@ I'm an automation tester with a passion for ensuring the quality and reliability
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/as_tech2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="as_tech2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asingh403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asingh403/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/asingh403/](https://www.linkedin.com/in/samuelmanoj/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asingh403/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8082755/ashutosh-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8082755/ashutosh-singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/asingh_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asingh_43/" height="30" width="40" /></a>
 </p>
